@@ -1,1 +1,1 @@
-# odin-recipes
+This project consists of building a basic recipe website. Building this website will assist me in develping and practicing my HTML skills.
