@@ -7,3 +7,8 @@ h1 {
     font-size: 32px;
 }
 
+.recipe-list {
+    font-size: 24px;
+    font-family: Verdana;
+    color: black;
+}
